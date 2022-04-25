@@ -1,0 +1,23 @@
+{
+  "name": "be",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesgalima123/crudfebe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesgalima123/crudfebe/issues"
+  },
+  "homepage": "https://github.com/jamesgalima123/crudfebe#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
